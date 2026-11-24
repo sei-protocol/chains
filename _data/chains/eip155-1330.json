@@ -1,0 +1,19 @@
+{
+  "name": "Sei giga-testnet-1",
+  "chain": "Sei",
+  "rpc": [
+    "https://rpc.giga-testnet-1.platform.sei.io",
+    "wss://rpc.giga-testnet-1.platform.sei.io"
+  ],
+  "faucets": ["https://faucet.giga-testnet-1.platform.sei.io"],
+  "nativeCurrency": {
+    "name": "Sei",
+    "symbol": "SEI",
+    "decimals": 18
+  },
+  "infoURL": "https://www.sei.io",
+  "shortName": "sei-giga-testnet-1",
+  "chainId": 1330,
+  "networkId": 1330,
+  "icon": "sei"
+}
